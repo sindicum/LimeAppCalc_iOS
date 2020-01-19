@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="LimeApplicationCalc/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="Hva-V8-mL2.text">
+        <source>石灰施用量計算</source>
+        <target>石灰施用量計算</target>
+        <note>Class = "UILabel"; text = "石灰施用量計算"; ObjectID = "Hva-V8-mL2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LimeApplicationCalc/Base.lproj/Main.storyboard" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0Bg-qc-HvS.normalTitle">
+        <source>進む</source>
+        <target>進む</target>
+        <note>Class = "UIButton"; normalTitle = "進む"; ObjectID = "0Bg-qc-HvS";</note>
+      </trans-unit>
+      <trans-unit id="1jY-Qz-vaV.text">
+        <source>改善pH</source>
+        <target>改善pH</target>
+        <note>Class = "UILabel"; text = "改善pH"; ObjectID = "1jY-Qz-vaV";</note>
+      </trans-unit>
+      <trans-unit id="8Mb-eB-nr1.normalTitle">
+        <source>単位変換</source>
+        <target>単位変換</target>
+        <note>Class = "UIButton"; normalTitle = "単位変換"; ObjectID = "8Mb-eB-nr1";</note>
+      </trans-unit>
+      <trans-unit id="BXF-Wf-ZPd.normalTitle">
+        <source>Lab3</source>
+        <target>Lab3</target>
+        <note>Class = "UIButton"; normalTitle = "Lab3"; ObjectID = "BXF-Wf-ZPd";</note>
+      </trans-unit>
+      <trans-unit id="DYz-6B-bIK.text">
+        <source>00.0</source>
+        <target>00.0</target>
+        <note>Class = "UILabel"; text = "00.0"; ObjectID = "DYz-6B-bIK";</note>
+      </trans-unit>
+      <trans-unit id="FxM-p8-NXC.normalTitle">
+        <source>8</source>
+        <target>8</target>
+        <note>Class = "UIButton"; normalTitle = "8"; ObjectID = "FxM-p8-NXC";</note>
+      </trans-unit>
+      <trans-unit id="GMQ-LO-CBX.normalTitle">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "戻る"; ObjectID = "GMQ-LO-CBX";</note>
+      </trans-unit>
+      <trans-unit id="HM6-Hs-mFM.text">
+        <source>00000</source>
+        <target>00000</target>
+        <note>Class = "UILabel"; text = "00000"; ObjectID = "HM6-Hs-mFM";</note>
+      </trans-unit>
+      <trans-unit id="Hxw-qq-VS5.normalTitle">
+        <source>Lab2</source>
+        <target>Lab2</target>
+        <note>Class = "UIButton"; normalTitle = "Lab2"; ObjectID = "Hxw-qq-VS5";</note>
+      </trans-unit>
+      <trans-unit id="IEL-59-9MG.normalTitle">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UIButton"; normalTitle = "1"; ObjectID = "IEL-59-9MG";</note>
+      </trans-unit>
+      <trans-unit id="Iq5-hN-Ect.text">
+        <source>ガイダンスラベル</source>
+        <target>ガイダンスラベル</target>
+        <note>Class = "UILabel"; text = "ガイダンスラベル"; ObjectID = "Iq5-hN-Ect";</note>
+      </trans-unit>
+      <trans-unit id="KPS-CA-Hwr.text">
+        <source>耕起深</source>
+        <target>耕起深</target>
+        <note>Class = "UILabel"; text = "耕起深"; ObjectID = "KPS-CA-Hwr";</note>
+      </trans-unit>
+      <trans-unit id="Nn2-4b-lqP.normalTitle">
+        <source>9</source>
+        <target>9</target>
+        <note>Class = "UIButton"; normalTitle = "9"; ObjectID = "Nn2-4b-lqP";</note>
+      </trans-unit>
+      <trans-unit id="Otn-2o-4ol.normalTitle">
+        <source>5</source>
+        <target>5</target>
+        <note>Class = "UIButton"; normalTitle = "5"; ObjectID = "Otn-2o-4ol";</note>
+      </trans-unit>
+      <trans-unit id="PnV-k2-3bd.normalTitle">
+        <source>7</source>
+        <target>7</target>
+        <note>Class = "UIButton"; normalTitle = "7"; ObjectID = "PnV-k2-3bd";</note>
+      </trans-unit>
+      <trans-unit id="RGE-dm-0w4.text">
+        <source>仮比重</source>
+        <target>仮比重</target>
+        <note>Class = "UILabel"; text = "仮比重"; ObjectID = "RGE-dm-0w4";</note>
+      </trans-unit>
+      <trans-unit id="Rq0-tp-skE.text">
+        <source>kg</source>
+        <target>kg</target>
+        <note>Class = "UILabel"; text = "kg"; ObjectID = "Rq0-tp-skE";</note>
+      </trans-unit>
+      <trans-unit id="S9Y-pW-GQh.text">
+        <source>です</source>
+        <target>です</target>
+        <note>Class = "UILabel"; text = "です"; ObjectID = "S9Y-pW-GQh";</note>
+      </trans-unit>
+      <trans-unit id="TI1-ow-Mzw.text">
+        <source>アルカリ分</source>
+        <target>アルカリ分</target>
+        <note>Class = "UILabel"; text = "アルカリ分"; ObjectID = "TI1-ow-Mzw";</note>
+      </trans-unit>
+      <trans-unit id="UQO-Ur-yvM.normalTitle">
+        <source>Lab4</source>
+        <target>Lab4</target>
+        <note>Class = "UIButton"; normalTitle = "Lab4"; ObjectID = "UQO-Ur-yvM";</note>
+      </trans-unit>
+      <trans-unit id="WHR-Iq-8BO.text">
+        <source>使用資材</source>
+        <target>使用資材</target>
+        <note>Class = "UILabel"; text = "使用資材"; ObjectID = "WHR-Iq-8BO";</note>
+      </trans-unit>
+      <trans-unit id="WIW-1M-ITf.normalTitle">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "戻る"; ObjectID = "WIW-1M-ITf";</note>
+      </trans-unit>
+      <trans-unit id="bOi-DZ-GW8.normalTitle">
+        <source>Lab1</source>
+        <target>Lab1</target>
+        <note>Class = "UIButton"; normalTitle = "Lab1"; ObjectID = "bOi-DZ-GW8";</note>
+      </trans-unit>
+      <trans-unit id="cBL-Ss-HRh.text">
+        <source>土性</source>
+        <target>土性</target>
+        <note>Class = "UILabel"; text = "土性"; ObjectID = "cBL-Ss-HRh";</note>
+      </trans-unit>
+      <trans-unit id="dIh-se-l1A.normalTitle">
+        <source>C</source>
+        <target>C</target>
+        <note>Class = "UIButton"; normalTitle = "C"; ObjectID = "dIh-se-l1A";</note>
+      </trans-unit>
+      <trans-unit id="dqb-Rw-nba.normalTitle">
+        <source>2</source>
+        <target>2</target>
+        <note>Class = "UIButton"; normalTitle = "2"; ObjectID = "dqb-Rw-nba";</note>
+      </trans-unit>
+      <trans-unit id="eyY-Q0-aHe.text">
+        <source>当たりの石灰施用量は</source>
+        <target>当たりの石灰施用量は</target>
+        <note>Class = "UILabel"; text = "当たりの石灰施用量は"; ObjectID = "eyY-Q0-aHe";</note>
+      </trans-unit>
+      <trans-unit id="i4J-YQ-DTZ.normalTitle">
+        <source>3</source>
+        <target>3</target>
+        <note>Class = "UIButton"; normalTitle = "3"; ObjectID = "i4J-YQ-DTZ";</note>
+      </trans-unit>
+      <trans-unit id="j3r-If-ItN.normalTitle">
+        <source>リセット</source>
+        <target>リセット</target>
+        <note>Class = "UIButton"; normalTitle = "リセット"; ObjectID = "j3r-If-ItN";</note>
+      </trans-unit>
+      <trans-unit id="j76-1p-Ia1.text">
+        <source>サブガイダンスラベル</source>
+        <target>サブガイダンスラベル</target>
+        <note>Class = "UILabel"; text = "サブガイダンスラベル"; ObjectID = "j76-1p-Ia1";</note>
+      </trans-unit>
+      <trans-unit id="jgd-lk-KfU.text">
+        <source>現在pH</source>
+        <target>現在pH</target>
+        <note>Class = "UILabel"; text = "現在pH"; ObjectID = "jgd-lk-KfU";</note>
+      </trans-unit>
+      <trans-unit id="ktw-9T-1sq.normalTitle">
+        <source>計算</source>
+        <target>計算</target>
+        <note>Class = "UIButton"; normalTitle = "計算"; ObjectID = "ktw-9T-1sq";</note>
+      </trans-unit>
+      <trans-unit id="l7a-6K-fBA.normalTitle">
+        <source>Lab5</source>
+        <target>Lab5</target>
+        <note>Class = "UIButton"; normalTitle = "Lab5"; ObjectID = "l7a-6K-fBA";</note>
+      </trans-unit>
+      <trans-unit id="o1M-GD-CIj.normalTitle">
+        <source>6</source>
+        <target>6</target>
+        <note>Class = "UIButton"; normalTitle = "6"; ObjectID = "o1M-GD-CIj";</note>
+      </trans-unit>
+      <trans-unit id="oWa-ID-lpe.normalTitle">
+        <source>×</source>
+        <target>×</target>
+        <note>Class = "UIButton"; normalTitle = "×"; ObjectID = "oWa-ID-lpe";</note>
+      </trans-unit>
+      <trans-unit id="op8-eH-IIZ.text">
+        <source>10a</source>
+        <target>10a</target>
+        <note>Class = "UILabel"; text = "10a"; ObjectID = "op8-eH-IIZ";</note>
+      </trans-unit>
+      <trans-unit id="pIF-Ax-i43.text">
+        <source>腐植</source>
+        <target>腐植</target>
+        <note>Class = "UILabel"; text = "腐植"; ObjectID = "pIF-Ax-i43";</note>
+      </trans-unit>
+      <trans-unit id="pte-KE-RxE.normalTitle">
+        <source>.</source>
+        <target>.</target>
+        <note>Class = "UIButton"; normalTitle = "."; ObjectID = "pte-KE-RxE";</note>
+      </trans-unit>
+      <trans-unit id="s8o-Q3-Uie.text">
+        <source>《注意事項》
+上記の施用量はアレニウス表による簡易算出法で求めたものであり、土壌の種類により改善結果が異なる場合があります。特に有機物含有量が多いと結果は大きく異なります。</source>
+        <target>《注意事項》
+上記の施用量はアレニウス表による簡易算出法で求めたものであり、土壌の種類により改善結果が異なる場合があります。特に有機物含有量が多いと結果は大きく異なります。</target>
+        <note>Class = "UILabel"; text = "《注意事項》\n上記の施用量はアレニウス表による簡易算出法で求めたものであり、土壌の種類により改善結果が異なる場合があります。特に有機物含有量が多いと結果は大きく異なります。"; ObjectID = "s8o-Q3-Uie";</note>
+      </trans-unit>
+      <trans-unit id="x4Y-Hf-VNI.normalTitle">
+        <source>×</source>
+        <target>×</target>
+        <note>Class = "UIButton"; normalTitle = "×"; ObjectID = "x4Y-Hf-VNI";</note>
+      </trans-unit>
+      <trans-unit id="yUN-2U-uwh.normalTitle">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UIButton"; normalTitle = "0"; ObjectID = "yUN-2U-uwh";</note>
+      </trans-unit>
+      <trans-unit id="yVl-dD-fQD.text">
+        <source>ガイダンスラベル</source>
+        <target>ガイダンスラベル</target>
+        <note>Class = "UILabel"; text = "ガイダンスラベル"; ObjectID = "yVl-dD-fQD";</note>
+      </trans-unit>
+      <trans-unit id="ypn-xP-IDw.normalTitle">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UIButton"; normalTitle = "4"; ObjectID = "ypn-xP-IDw";</note>
+      </trans-unit>
+      <trans-unit id="z3E-Cf-ar2.normalTitle">
+        <source>×</source>
+        <target>×</target>
+        <note>Class = "UIButton"; normalTitle = "×"; ObjectID = "z3E-Cf-ar2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LimeApplicationCalc/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>LimeApplicationCalc</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

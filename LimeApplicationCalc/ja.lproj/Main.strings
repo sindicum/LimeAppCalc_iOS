@@ -1,0 +1,132 @@
+/* Class = "UIButton"; normalTitle = "進む"; ObjectID = "0Bg-qc-HvS"; */
+"0Bg-qc-HvS.normalTitle" = "進む";
+
+/* Class = "UILabel"; text = "改善pH"; ObjectID = "1jY-Qz-vaV"; */
+"1jY-Qz-vaV.text" = "改善pH";
+
+/* Class = "UIButton"; normalTitle = "単位変換"; ObjectID = "8Mb-eB-nr1"; */
+"8Mb-eB-nr1.normalTitle" = "単位変換";
+
+/* Class = "UIButton"; normalTitle = "Lab1"; ObjectID = "bOi-DZ-GW8"; */
+"bOi-DZ-GW8.normalTitle" = "Lab1";
+
+/* Class = "UIButton"; normalTitle = "Lab3"; ObjectID = "BXF-Wf-ZPd"; */
+"BXF-Wf-ZPd.normalTitle" = "Lab3";
+
+/* Class = "UILabel"; text = "土性"; ObjectID = "cBL-Ss-HRh"; */
+"cBL-Ss-HRh.text" = "土性";
+
+/* Class = "UIButton"; normalTitle = "C"; ObjectID = "dIh-se-l1A"; */
+"dIh-se-l1A.normalTitle" = "C";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "dqb-Rw-nba"; */
+"dqb-Rw-nba.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "00.0"; ObjectID = "DYz-6B-bIK"; */
+"DYz-6B-bIK.text" = "00.0";
+
+/* Class = "UILabel"; text = "当たりの石灰施用量は"; ObjectID = "eyY-Q0-aHe"; */
+"eyY-Q0-aHe.text" = "当たりの石灰施用量は";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "FxM-p8-NXC"; */
+"FxM-p8-NXC.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "GMQ-LO-CBX"; */
+"GMQ-LO-CBX.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "00000"; ObjectID = "HM6-Hs-mFM"; */
+"HM6-Hs-mFM.text" = "00000";
+
+/* Class = "UIButton"; normalTitle = "Lab2"; ObjectID = "Hxw-qq-VS5"; */
+"Hxw-qq-VS5.normalTitle" = "Lab2";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "i4J-YQ-DTZ"; */
+"i4J-YQ-DTZ.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "IEL-59-9MG"; */
+"IEL-59-9MG.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "ガイダンスラベル"; ObjectID = "Iq5-hN-Ect"; */
+"Iq5-hN-Ect.text" = "ガイダンスラベル";
+
+/* Class = "UIButton"; normalTitle = "リセット"; ObjectID = "j3r-If-ItN"; */
+"j3r-If-ItN.normalTitle" = "リセット";
+
+/* Class = "UILabel"; text = "サブガイダンスラベル"; ObjectID = "j76-1p-Ia1"; */
+"j76-1p-Ia1.text" = "サブガイダンスラベル";
+
+/* Class = "UILabel"; text = "現在pH"; ObjectID = "jgd-lk-KfU"; */
+"jgd-lk-KfU.text" = "現在pH";
+
+/* Class = "UILabel"; text = "耕起深"; ObjectID = "KPS-CA-Hwr"; */
+"KPS-CA-Hwr.text" = "耕起深";
+
+/* Class = "UIButton"; normalTitle = "計算"; ObjectID = "ktw-9T-1sq"; */
+"ktw-9T-1sq.normalTitle" = "計算";
+
+/* Class = "UIButton"; normalTitle = "Lab5"; ObjectID = "l7a-6K-fBA"; */
+"l7a-6K-fBA.normalTitle" = "Lab5";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "Nn2-4b-lqP"; */
+"Nn2-4b-lqP.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "o1M-GD-CIj"; */
+"o1M-GD-CIj.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "10a"; ObjectID = "op8-eH-IIZ"; */
+"op8-eH-IIZ.text" = "10a";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "Otn-2o-4ol"; */
+"Otn-2o-4ol.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "oWa-ID-lpe"; */
+"oWa-ID-lpe.normalTitle" = "×";
+
+/* Class = "UILabel"; text = "腐植"; ObjectID = "pIF-Ax-i43"; */
+"pIF-Ax-i43.text" = "腐植";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "PnV-k2-3bd"; */
+"PnV-k2-3bd.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "."; ObjectID = "pte-KE-RxE"; */
+"pte-KE-RxE.normalTitle" = ".";
+
+/* Class = "UILabel"; text = "仮比重"; ObjectID = "RGE-dm-0w4"; */
+"RGE-dm-0w4.text" = "仮比重";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "Rq0-tp-skE"; */
+"Rq0-tp-skE.text" = "kg";
+
+/* Class = "UILabel"; text = "《注意事項》\n上記の施用量はアレニウス表による簡易算出法で求めたものであり、土壌の種類により改善結果が異なる場合があります。特に有機物含有量が多いと結果は大きく異なります。"; ObjectID = "s8o-Q3-Uie"; */
+"s8o-Q3-Uie.text" = "《注意事項》\n上記の施用量はアレニウス表による簡易算出法で求めたものであり、土壌の種類により改善結果が異なる場合があります。特に有機物含有量が多いと結果は大きく異なります。";
+
+/* Class = "UILabel"; text = "です"; ObjectID = "S9Y-pW-GQh"; */
+"S9Y-pW-GQh.text" = "です";
+
+/* Class = "UILabel"; text = "アルカリ分"; ObjectID = "TI1-ow-Mzw"; */
+"TI1-ow-Mzw.text" = "アルカリ分";
+
+/* Class = "UIButton"; normalTitle = "Lab4"; ObjectID = "UQO-Ur-yvM"; */
+"UQO-Ur-yvM.normalTitle" = "Lab4";
+
+/* Class = "UILabel"; text = "使用資材"; ObjectID = "WHR-Iq-8BO"; */
+"WHR-Iq-8BO.text" = "使用資材";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "WIW-1M-ITf"; */
+"WIW-1M-ITf.normalTitle" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "x4Y-Hf-VNI"; */
+"x4Y-Hf-VNI.normalTitle" = "×";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "ypn-xP-IDw"; */
+"ypn-xP-IDw.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "yUN-2U-uwh"; */
+"yUN-2U-uwh.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "ガイダンスラベル"; ObjectID = "yVl-dD-fQD"; */
+"yVl-dD-fQD.text" = "ガイダンスラベル";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "z3E-Cf-ar2"; */
+"z3E-Cf-ar2.normalTitle" = "×";
+

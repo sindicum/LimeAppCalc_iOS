@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  LimeApplicationCalc
+
+  Created by M.Goto on 2019/10/13.
+  Copyright © 2019 M.Goto. All rights reserved.
+*/
+CFBundleDisplayName = "石灰施用計算";
