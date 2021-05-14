@@ -150,7 +150,7 @@ class ViewController: UIViewController {
         
         //pH矯正の石灰量算出式
         if alkalineContentValue != 0 {
-            calcResult! = (improvedPhValue! - presentPhValue!) * plowingDepthValue! * bulkDensityValue! * aleniusFactor! * 53 / alkalineContentValue!
+            calcResult = (improvedPhValue! - presentPhValue!) * plowingDepthValue! * bulkDensityValue! * aleniusFactor! * 53 / alkalineContentValue!
         } else {
             calcResult = 0
         }
